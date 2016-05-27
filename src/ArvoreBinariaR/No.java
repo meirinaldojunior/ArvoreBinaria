@@ -9,7 +9,7 @@ import arvorebinaria.Arvore;
 
 /**
  *
- * @author alunofavip
+ * @author Meirinaldo Junior
  */
 public class No {
 

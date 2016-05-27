@@ -29,7 +29,7 @@ public class ArvoreBinaria {
                     Inserir(node.getNoEsquerda(), valor);
                 }else{
                     System.err.println("Inserir na esquerda de" + node.valor +" o valor "+ valor);
-                    node.;
+                   
                 }
             }
             
